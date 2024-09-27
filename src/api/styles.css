@@ -1,0 +1,16 @@
+css
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.header {
+    font-size: 2em;
+    color: #333;
+}
+
+.image {
+    width: 100%;
+    max-width: 600px;
+}
+
